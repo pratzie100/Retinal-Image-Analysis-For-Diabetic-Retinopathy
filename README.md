@@ -6,7 +6,7 @@
 
 ## Dataset Details
 
-- Dataset taken from Kaggle (APTOS 2019 Blindness Detection Dataset).
+- Dataset taken from Kaggle (APTOS Blindness Detection Dataset).
 - Consists of 3,662 eye fundus images.
 
 ## Model and Performance
